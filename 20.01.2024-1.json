@@ -1,0 +1,25 @@
+{
+    "name": "Trevor Hall",
+    "age": 27,
+    "address": {
+        "street": "Michael Pines",
+        "city": "Cruzberg",
+        "state": "Florida",
+        "zip": "11409"
+    },
+    "contact": {
+        "phone": "001-713-218-3183x42731",
+        "servicePhone": "800327105"
+    },
+    "birthday": "1998-31-10",
+    "ip": "40.224.197.169",
+    "foo": "bar",
+    "profile": {
+        "about": "Military as let Congress role memory sign firm. Over young into so work eye.",
+        "bio": "Sing main better institution continue PM. All lose provide player set ten conference.\nBack threat make reflect indicate. Beautiful huge why performance. Fact population onto write room event."
+    },
+    "currency": [
+        "LKR",
+        "Sri Lankan rupee"
+    ]
+}
