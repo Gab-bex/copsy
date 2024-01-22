@@ -1,0 +1,25 @@
+{
+    "name": "Christopher Buchanan",
+    "age": 5,
+    "address": {
+        "street": "Daniel Path",
+        "city": "Jessemouth",
+        "state": "New York",
+        "zip": "30872"
+    },
+    "contact": {
+        "phone": "441-551-3634x2344",
+        "servicePhone": "800540758"
+    },
+    "birthday": "2020-16-02",
+    "ip": "93.213.69.206",
+    "foo": "bar",
+    "profile": {
+        "about": "If floor man three. Meeting born choice beat.\nPossible we under direction soon. Bill method mention bill door. Since minute card resource team.\nProject between record must protect boy around how.",
+        "bio": "Style inside so. The become design. Foot wife special school continue term. Concern church once add democratic organization point.\nHave series include song."
+    },
+    "currency": [
+        "SGD",
+        "Singapore dollar"
+    ]
+}
