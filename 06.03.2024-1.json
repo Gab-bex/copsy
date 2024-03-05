@@ -1,0 +1,25 @@
+{
+    "name": "Kayla Zimmerman",
+    "age": 80,
+    "address": {
+        "street": "Stone Greens",
+        "city": "Freemanfurt",
+        "state": "Kansas",
+        "zip": "18574"
+    },
+    "contact": {
+        "phone": "(663)599-3368",
+        "servicePhone": "800295957"
+    },
+    "birthday": "1945-03-01",
+    "ip": "203.178.176.246",
+    "foo": "bar",
+    "profile": {
+        "about": "Wide effort woman simple.\nClose quickly despite character hold even. Thought history sing guy day. Report carry increase tough whose line yet. Focus too live TV card police north.",
+        "bio": "Kid from view I girl dark. Center else administration success picture."
+    },
+    "currency": [
+        "XPF",
+        "CFP franc"
+    ]
+}
