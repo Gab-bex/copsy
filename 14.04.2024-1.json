@@ -1,0 +1,25 @@
+{
+    "name": "Charles Everett",
+    "age": 104,
+    "address": {
+        "street": "William Parkways",
+        "city": "Grossside",
+        "state": "Indiana",
+        "zip": "22868"
+    },
+    "contact": {
+        "phone": "(962)666-6302x385",
+        "servicePhone": "800157147"
+    },
+    "birthday": "1921-11-12",
+    "ip": "139.68.128.181",
+    "foo": "bar",
+    "profile": {
+        "about": "Phone nature final offer team. Democratic various second probably city night.\nCoach town see figure move author. This later note game item. Rate life thank hand through phone base.",
+        "bio": "By movement region past summer mother mother. Firm model rest moment begin. Admit decide administration within music government record."
+    },
+    "currency": [
+        "INR",
+        "Indian rupee"
+    ]
+}
