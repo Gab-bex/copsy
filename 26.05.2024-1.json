@@ -1,0 +1,25 @@
+{
+    "name": "Kimberly Stevens",
+    "age": 115,
+    "address": {
+        "street": "Pace Village",
+        "city": "Port Danielshire",
+        "state": "Arkansas",
+        "zip": "71841"
+    },
+    "contact": {
+        "phone": "904-679-8531x0573",
+        "servicePhone": "800166620"
+    },
+    "birthday": "1910-27-09",
+    "ip": "50.29.94.9",
+    "foo": "bar",
+    "profile": {
+        "about": "Who check fill set whole true economic step. Feel or year suffer. Ok difficult different who money some west. Small standard camera argue true brother theory simple.",
+        "bio": "Bill party star ground. Painting wind sea such son collection.\nIf view exist almost success total. Walk concern again inside item."
+    },
+    "currency": [
+        "KHR",
+        "Cambodian riel"
+    ]
+}
