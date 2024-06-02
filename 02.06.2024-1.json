@@ -1,0 +1,25 @@
+{
+    "name": "Kristina Harris",
+    "age": 56,
+    "address": {
+        "street": "Noah Bypass",
+        "city": "South Johnny",
+        "state": "Utah",
+        "zip": "15354"
+    },
+    "contact": {
+        "phone": "9518965904",
+        "servicePhone": "800278191"
+    },
+    "birthday": "1969-02-05",
+    "ip": "180.134.139.228",
+    "foo": "bar",
+    "profile": {
+        "about": "Employee couple rest color water east. Decade young eat opportunity pay improve. Mr attack compare process subject draw. Argue company money Democrat fear administration wife energy.",
+        "bio": "People wall item day receive talk network market. Our board build white company.\nServe force so score. Too carry ever present eight feeling play. Such along wish evidence respond."
+    },
+    "currency": [
+        "LSL",
+        "Lesotho loti"
+    ]
+}
