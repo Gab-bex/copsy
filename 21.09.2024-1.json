@@ -1,0 +1,25 @@
+{
+    "name": "Michael Crawford",
+    "age": 100,
+    "address": {
+        "street": "Jacob Junction",
+        "city": "Lake Brittanymouth",
+        "state": "New York",
+        "zip": "34276"
+    },
+    "contact": {
+        "phone": "654.832.8741x46250",
+        "servicePhone": "800054317"
+    },
+    "birthday": "1925-30-08",
+    "ip": "154.240.18.65",
+    "foo": "bar",
+    "profile": {
+        "about": "Situation however television everybody class minute great. Although always resource guess ready. Nor ten near help.\nRecent Mrs item hair. Despite like discussion soon my walk cut.",
+        "bio": "Win prevent south try heavy cup.\nAvoid leader performance. Bad approach player usually environmental physical second leg. Remember ok become lose."
+    },
+    "currency": [
+        "MDL",
+        "Moldovan leu"
+    ]
+}
