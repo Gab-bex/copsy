@@ -1,0 +1,25 @@
+{
+    "name": "Anna Nunez",
+    "age": 28,
+    "address": {
+        "street": "Hooper Cliffs",
+        "city": "West Ashleyfort",
+        "state": "California",
+        "zip": "76032"
+    },
+    "contact": {
+        "phone": "+1-532-759-4322x85795",
+        "servicePhone": "800489756"
+    },
+    "birthday": "1997-30-03",
+    "ip": "48.44.136.241",
+    "foo": "bar",
+    "profile": {
+        "about": "Each nor almost do run child hot. Watch catch allow school. Environment down next question man region pretty.",
+        "bio": "Music stage adult chair check market growth. Painting former skin. Dinner question exist member painting risk data. Safe box mind agency thank level south."
+    },
+    "currency": [
+        "LAK",
+        "Lao kip"
+    ]
+}
