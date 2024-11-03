@@ -1,0 +1,25 @@
+{
+    "name": "Brian Wagner MD",
+    "age": 64,
+    "address": {
+        "street": "Kenneth Skyway",
+        "city": "West Davidville",
+        "state": "Kentucky",
+        "zip": "50375"
+    },
+    "contact": {
+        "phone": "524-400-1607x675",
+        "servicePhone": "800296794"
+    },
+    "birthday": "1961-31-12",
+    "ip": "179.57.84.74",
+    "foo": "bar",
+    "profile": {
+        "about": "Deal good despite happen street member. Run across care push. Onto raise program ready beyond.",
+        "bio": "Should such somebody student. Ability also movie Mr. Stop idea fund sure arrive budget develop. End way hair identify church give though."
+    },
+    "currency": [
+        "KRW",
+        "South Korean won"
+    ]
+}
