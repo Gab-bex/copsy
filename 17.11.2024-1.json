@@ -1,0 +1,25 @@
+{
+    "name": "Michael Park",
+    "age": 78,
+    "address": {
+        "street": "Robert Greens",
+        "city": "South Amber",
+        "state": "Minnesota",
+        "zip": "99789"
+    },
+    "contact": {
+        "phone": "933.408.0040x95997",
+        "servicePhone": "800409228"
+    },
+    "birthday": "1947-10-04",
+    "ip": "199.43.137.255",
+    "foo": "bar",
+    "profile": {
+        "about": "However finally hour question huge water. List remain example develop they indicate focus.",
+        "bio": "List expect financial administration. Area like across response red surface record. South present also."
+    },
+    "currency": [
+        "TMT",
+        "Turkmenistan manat"
+    ]
+}
