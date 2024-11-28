@@ -1,0 +1,25 @@
+{
+    "name": "Suzanne Mack",
+    "age": 17,
+    "address": {
+        "street": "Tyler Underpass",
+        "city": "Montoyaville",
+        "state": "Georgia",
+        "zip": "27563"
+    },
+    "contact": {
+        "phone": "(237)484-2310",
+        "servicePhone": "800918151"
+    },
+    "birthday": "2008-26-11",
+    "ip": "196.253.13.199",
+    "foo": "bar",
+    "profile": {
+        "about": "Church attorney check meet wall. Any stuff trip like. Direction structure same section later young security.\nManage during manager. Learn eight threat foot break. Reduce baby catch money listen this.",
+        "bio": "Environment ok heart respond. Moment should this newspaper.\nProperty actually conference seek success institution ready. Decide parent heavy debate mean."
+    },
+    "currency": [
+        "FKP",
+        "Falkland Islands pound"
+    ]
+}
