@@ -1,0 +1,25 @@
+{
+    "name": "Mr. Seth Garza",
+    "age": 109,
+    "address": {
+        "street": "Nicole Rue",
+        "city": "New Sierraview",
+        "state": "Texas",
+        "zip": "73024"
+    },
+    "contact": {
+        "phone": "001-226-543-6357x50774",
+        "servicePhone": "800400544"
+    },
+    "birthday": "1916-10-07",
+    "ip": "179.228.79.168",
+    "foo": "bar",
+    "profile": {
+        "about": "City wide pull once air your thank. Develop during character.\nMaterial ok reduce attorney build. Send on risk represent buy reality.\nReceive body power cold bill color fund.",
+        "bio": "Available deep management adult sure amount culture. Relationship reach phone air. We too guess either fine."
+    },
+    "currency": [
+        "TTD",
+        "Trinidad and Tobago dollar"
+    ]
+}
