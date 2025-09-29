@@ -1,0 +1,25 @@
+{
+    "name": "Cynthia Rocha",
+    "age": 22,
+    "address": {
+        "street": "Frazier Village",
+        "city": "Walkerville",
+        "state": "Louisiana",
+        "zip": "14084"
+    },
+    "contact": {
+        "phone": "437.776.7725",
+        "servicePhone": "800671944"
+    },
+    "birthday": "2003-11-11",
+    "ip": "197.198.50.204",
+    "foo": "bar",
+    "profile": {
+        "about": "His it near be. Lawyer back lose again save argue. Contain western upon.\nFace hair moment floor station. Work somebody position piece tough win.",
+        "bio": "Process enter PM add. Happen friend relate group decide air wind."
+    },
+    "currency": [
+        "KRW",
+        "South Korean won"
+    ]
+}
