@@ -1,0 +1,25 @@
+{
+    "name": "Tracy Baker",
+    "age": 90,
+    "address": {
+        "street": "Evans Crossing",
+        "city": "North Victoriahaven",
+        "state": "Georgia",
+        "zip": "30763"
+    },
+    "contact": {
+        "phone": "+1-921-353-6991x733",
+        "servicePhone": "800711378"
+    },
+    "birthday": "1935-09-04",
+    "ip": "28.250.111.232",
+    "foo": "bar",
+    "profile": {
+        "about": "Health material participant hold customer camera black. Operation medical worry floor.",
+        "bio": "Least property anyone why now. Change specific thought professor body strong anyone.\nPass budget us single less scientist. Everything race according around central turn. Card economy job."
+    },
+    "currency": [
+        "BHD",
+        "Bahraini dinar"
+    ]
+}

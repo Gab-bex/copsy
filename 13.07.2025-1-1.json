@@ -1,0 +1,25 @@
+{
+    "name": "Thomas Coleman",
+    "age": 80,
+    "address": {
+        "street": "Sharon Neck",
+        "city": "Arroyoville",
+        "state": "Mississippi",
+        "zip": "46866"
+    },
+    "contact": {
+        "phone": "570-249-0800x6661",
+        "servicePhone": "800290992"
+    },
+    "birthday": "1945-22-05",
+    "ip": "67.47.176.238",
+    "foo": "bar",
+    "profile": {
+        "about": "Measure hotel admit one class. Off direction those bill research PM happen.\nLong personal center she imagine specific. Rather could boy couple south night.",
+        "bio": "New ever have show TV traditional. Where father TV run treat. Know risk space different break man fast.\nAsk most talk our. Lot give former produce everybody raise. Instead may rock."
+    },
+    "currency": [
+        "SCR",
+        "Seychellois rupee"
+    ]
+}
