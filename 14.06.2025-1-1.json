@@ -1,0 +1,25 @@
+{
+    "name": "Dr. Kimberly Prince DVM",
+    "age": 43,
+    "address": {
+        "street": "Hanson Wall",
+        "city": "New Victoriaville",
+        "state": "Ohio",
+        "zip": "97431"
+    },
+    "contact": {
+        "phone": "250.336.9222x46879",
+        "servicePhone": "800423637"
+    },
+    "birthday": "1982-11-10",
+    "ip": "9.242.57.0",
+    "foo": "bar",
+    "profile": {
+        "about": "Father human move lose why let investment. Hot see stuff everything impact.\nEver similar skin college family certainly use do. Morning teach officer number remain raise religious.",
+        "bio": "Score trial nothing join. Activity number himself indeed number tonight. Yeah election run chair. Service us statement least."
+    },
+    "currency": [
+        "ARS",
+        "Argentine peso"
+    ]
+}

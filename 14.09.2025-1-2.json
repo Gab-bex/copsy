@@ -1,0 +1,25 @@
+{
+    "name": "Nicole Garcia",
+    "age": 33,
+    "address": {
+        "street": "Jesus Forks",
+        "city": "Lake Danielview",
+        "state": "Wisconsin",
+        "zip": "97514"
+    },
+    "contact": {
+        "phone": "001-336-860-0224",
+        "servicePhone": "800496790"
+    },
+    "birthday": "1992-14-06",
+    "ip": "67.131.251.190",
+    "foo": "bar",
+    "profile": {
+        "about": "Response among in serve positive. Loss vote shoulder education economic want certainly. Professor entire option sea sport mention possible. Race also too doctor produce father.",
+        "bio": "Admit particularly law bag success. Myself wide understand hold.\nSignificant identify must."
+    },
+    "currency": [
+        "LTL",
+        "Lithuanian litas"
+    ]
+}

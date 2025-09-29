@@ -1,0 +1,25 @@
+{
+    "name": "Mr. David Moore",
+    "age": 58,
+    "address": {
+        "street": "Paul Stravenue",
+        "city": "Martinville",
+        "state": "Massachusetts",
+        "zip": "32116"
+    },
+    "contact": {
+        "phone": "589-856-3535x7750",
+        "servicePhone": "800640591"
+    },
+    "birthday": "1967-08-05",
+    "ip": "105.88.79.209",
+    "foo": "bar",
+    "profile": {
+        "about": "Sometimes likely admit prevent you with.\nBehavior little piece career eye paper.\nThank rather occur design. Design sing worry direction remember hundred. Impact drug people debate say fine growth.",
+        "bio": "Artist before human see. Collection husband environment significant foot party. Short list owner movement significant focus choice.\nNational nice big. Recognize table writer front piece sense may."
+    },
+    "currency": [
+        "MVR",
+        "Maldivian rufiyaa"
+    ]
+}
