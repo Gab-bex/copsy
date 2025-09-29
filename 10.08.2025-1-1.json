@@ -1,0 +1,25 @@
+{
+    "name": "Natasha Hogan",
+    "age": 52,
+    "address": {
+        "street": "Megan Ranch",
+        "city": "Ortegaside",
+        "state": "Maryland",
+        "zip": "54147"
+    },
+    "contact": {
+        "phone": "6003102239",
+        "servicePhone": "800972628"
+    },
+    "birthday": "1973-16-11",
+    "ip": "123.76.100.138",
+    "foo": "bar",
+    "profile": {
+        "about": "Former professor soon land road pull president art. What between say check paper.\nNote million institution when move financial. Pull food mouth fear wish hard hear. Model west describe media degree.",
+        "bio": "Identify personal move seem. Sport return less customer television why. None stuff control board song improve hand.\nConcern fall worker. International room life."
+    },
+    "currency": [
+        "LYD",
+        "Libyan dinar"
+    ]
+}
