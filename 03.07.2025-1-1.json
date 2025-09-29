@@ -1,0 +1,25 @@
+{
+    "name": "Tiffany Collins",
+    "age": 79,
+    "address": {
+        "street": "Mccall Expressway",
+        "city": "Danaton",
+        "state": "Hawaii",
+        "zip": "13237"
+    },
+    "contact": {
+        "phone": "257-417-0141x5386",
+        "servicePhone": "800898276"
+    },
+    "birthday": "1946-12-08",
+    "ip": "34.87.104.126",
+    "foo": "bar",
+    "profile": {
+        "about": "Challenge face wait feel in anyone. Image team animal quality every.\nRepublican serious hundred write tell old particularly. Against movement field both. Ten old remember community.",
+        "bio": "Cold speak family continue relationship. Across of which land college.\nEat event do sing ok up."
+    },
+    "currency": [
+        "ZMW",
+        "Zambian kwacha"
+    ]
+}
