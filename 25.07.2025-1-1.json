@@ -1,0 +1,25 @@
+{
+    "name": "Daniel Medina",
+    "age": 27,
+    "address": {
+        "street": "Henderson Hollow",
+        "city": "Lauraport",
+        "state": "Arizona",
+        "zip": "34335"
+    },
+    "contact": {
+        "phone": "+1-594-664-4910x7779",
+        "servicePhone": "800197125"
+    },
+    "birthday": "1998-03-07",
+    "ip": "108.91.223.82",
+    "foo": "bar",
+    "profile": {
+        "about": "Thing party above girl or inside read. Discuss decade often recently manage especially apply put.\nFear explain central Congress behavior. Beautiful make break yet available.",
+        "bio": "News herself everybody hotel economy pull pass. Like much citizen too Congress born just.\nEnough entire early ahead thank buy. Generation ball almost gun."
+    },
+    "currency": [
+        "DJF",
+        "Djiboutian franc"
+    ]
+}
