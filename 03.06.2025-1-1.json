@@ -1,0 +1,25 @@
+{
+    "name": "John Hopkins",
+    "age": 77,
+    "address": {
+        "street": "Smith Road",
+        "city": "Benjaminberg",
+        "state": "Arkansas",
+        "zip": "46583"
+    },
+    "contact": {
+        "phone": "(660)591-7650",
+        "servicePhone": "800335690"
+    },
+    "birthday": "1948-21-10",
+    "ip": "165.233.227.156",
+    "foo": "bar",
+    "profile": {
+        "about": "Firm thank into general join appear. Hit officer coach south before message. Item real table sing out present sister.\nOnce there it rather. Throw both go partner everything later.",
+        "bio": "Tv close enter remain page. Out in answer likely check run national factor. Long capital over friend own."
+    },
+    "currency": [
+        "SEK",
+        "Swedish krona"
+    ]
+}

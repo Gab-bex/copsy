@@ -1,0 +1,25 @@
+{
+    "name": "Kimberly Conner",
+    "age": 87,
+    "address": {
+        "street": "Carroll Stravenue",
+        "city": "Greenbury",
+        "state": "Connecticut",
+        "zip": "74088"
+    },
+    "contact": {
+        "phone": "9197522667",
+        "servicePhone": "800524601"
+    },
+    "birthday": "1938-02-10",
+    "ip": "131.239.60.233",
+    "foo": "bar",
+    "profile": {
+        "about": "Suffer perhaps tend available. Onto population himself.\nGo task while old student. Among often candidate speech fine late watch. Within stock raise reflect.\nOften use collection cost someone.",
+        "bio": "Local trade business air approach. Thought author future vote.\nTo onto foot push pressure doctor window great. One defense firm show stuff someone reflect."
+    },
+    "currency": [
+        "MRO",
+        "Mauritanian ouguiya"
+    ]
+}
