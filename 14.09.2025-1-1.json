@@ -1,0 +1,25 @@
+{
+    "name": "Kimberly Smith",
+    "age": 80,
+    "address": {
+        "street": "Timothy Forks",
+        "city": "Alexfurt",
+        "state": "Pennsylvania",
+        "zip": "62451"
+    },
+    "contact": {
+        "phone": "460-241-3626",
+        "servicePhone": "800017180"
+    },
+    "birthday": "1945-16-03",
+    "ip": "117.217.73.37",
+    "foo": "bar",
+    "profile": {
+        "about": "Task bit only around give energy together loss. Right analysis recognize.",
+        "bio": "Suddenly claim page structure month window. Region tonight person later hospital face cause. Campaign yes student into see sell hold better."
+    },
+    "currency": [
+        "CDF",
+        "Congolese franc"
+    ]
+}
